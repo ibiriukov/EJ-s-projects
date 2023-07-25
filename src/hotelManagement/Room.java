@@ -1,6 +1,7 @@
 /**
  *
  * @author Ievgen Biriukov
+ *                              Testing CodeQL
  */
 
 package hotelManagement;
