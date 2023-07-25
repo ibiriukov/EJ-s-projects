@@ -1,6 +1,7 @@
 /**
  *
  * @author Ievgen Biriukov
+ * Test
  */
 
 package hotelManagement;
